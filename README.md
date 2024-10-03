@@ -2,7 +2,7 @@
 
 # NFT Transcations
 
-Basically my project do three things:
+Basically my project do four things:
 1. Mints an NFT
 2. Transfer an NFT
 3. Burns an NFT
